@@ -1,0 +1,9 @@
+.container{
+  position: relative;
+  width: 600px;
+  padding-top: 3rem;
+  margin: 0 auto;
+}
+.container h1{
+  margin-bottom: 1rem;
+}
